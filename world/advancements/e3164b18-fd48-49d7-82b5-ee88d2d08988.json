@@ -1,0 +1,334 @@
+{
+  "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2023-11-09 21:08:14 -0600"
+    },
+    "done": true
+  },
+  "cqrepoured:cqr/root": {
+    "criteria": {
+      "tick": "2023-11-06 11:21:06 -0600"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2023-11-10 16:29:40 -0600"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/misc/yellow_cape": {
+    "criteria": {
+      "has_yellow_wool": "2023-11-13 15:57:59 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_lapis_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2023-11-09 21:08:14 -0600"
+    },
+    "done": true
+  },
+  "ic2:recipes/hemp_seeds_recipes": {
+    "criteria": {
+      "has_item": "2023-11-10 15:23:28 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2023-11-07 12:25:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2023-11-09 21:08:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2023-11-10 14:33:50 -0600",
+      "deep_ocean": "2023-11-07 11:33:24 -0600",
+      "beaches": "2023-11-07 11:33:09 -0600",
+      "savanna": "2023-11-06 11:21:05 -0600",
+      "plains": "2023-11-09 22:59:57 -0600",
+      "savanna_rock": "2023-11-06 11:24:00 -0600",
+      "ocean": "2023-11-07 11:33:10 -0600",
+      "river": "2023-11-06 11:34:48 -0600",
+      "stone_beach": "2023-11-07 11:44:01 -0600"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2023-11-09 21:08:14 -0600"
+    },
+    "done": true
+  },
+  "simplyjetpacks:te/root_te": {
+    "criteria": {
+      "code_trigger": "2023-11-06 11:21:05 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2023-11-07 11:34:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-11-09 20:54:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2023-11-13 15:55:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_red_flower": "2023-11-06 11:27:35 -0600"
+    },
+    "done": true
+  },
+  "ic2:recipes/cropcarrot_recipes": {
+    "criteria": {
+      "has_item_0": "2023-11-06 22:11:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2023-11-13 15:55:52 -0600"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2023-11-06 11:21:06 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2023-11-13 15:55:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2023-11-09 21:08:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2023-11-13 15:57:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2023-11-10 15:10:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2023-11-07 11:34:15 -0600"
+    },
+    "done": true
+  },
+  "railcraft:tracks/high_speed_track": {
+    "criteria": {
+      "ride": "2023-11-06 11:23:37 -0600"
+    },
+    "done": false
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2023-11-10 16:29:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2023-11-07 11:34:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2023-11-07 11:34:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2023-11-06 22:09:51 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2023-11-07 11:34:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2023-11-07 11:34:15 -0600"
+    },
+    "done": true
+  },
+  "ic2:recipes/bone_meal_recipes": {
+    "criteria": {
+      "has_item": "2023-11-09 21:08:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2023-11-09 21:08:14 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2023-11-06 22:11:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2023-11-07 11:34:15 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2023-11-13 15:57:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2023-11-09 20:59:11 -0600"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2023-11-10 16:29:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet": {
+    "criteria": {
+      "has_yellow_wool": "2023-11-13 15:57:59 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_banner": {
+    "criteria": {
+      "has_yellow_wool": "2023-11-13 15:57:59 -0600"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2023-11-06 11:21:06 -0600"
+    },
+    "done": true
+  },
+  "simplyjetpacks:vanilla/root_vanilla": {
+    "criteria": {
+      "code_trigger": "2023-11-06 11:21:05 -0600"
+    },
+    "done": true
+  },
+  "ic2:recipes/dyewhite_recipes": {
+    "criteria": {
+      "has_item_0": "2023-11-09 21:08:14 -0600"
+    },
+    "done": true
+  },
+  "railcraft:tracks/root": {
+    "criteria": {
+      "step_on_track": "2023-11-06 11:22:02 -0600"
+    },
+    "done": true
+  },
+  "railcraft:carts/root": {
+    "criteria": {
+      "step_on_track": "2023-11-06 11:22:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2023-11-13 15:57:59 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "rainbow_oak_sapling": "2023-11-10 16:34:07 -0600"
+    },
+    "done": false
+  },
+  "simplyjetpacks:root": {
+    "criteria": {
+      "code_trigger": "2023-11-06 11:21:05 -0600"
+    },
+    "done": true
+  },
+  "simplyjetpacks:eio/root_eio": {
+    "criteria": {
+      "code_trigger": "2023-11-06 11:21:05 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2023-11-13 15:55:52 -0600"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/root": {
+    "criteria": {
+      "tick": "2023-11-06 11:21:06 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2023-11-13 15:57:56 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2023-11-09 21:08:14 -0600"
+    },
+    "done": true
+  },
+  "ic2:recipes/dark_oak_wood_recipes": {
+    "criteria": {
+      "has_item": "2023-11-09 20:59:11 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2023-11-06 11:21:05 -0600"
+    },
+    "done": true
+  }
+}
